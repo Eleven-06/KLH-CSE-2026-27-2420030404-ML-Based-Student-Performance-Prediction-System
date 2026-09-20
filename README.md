@@ -200,5 +200,5 @@ ML-Student-Academic-Performance-Prediction/
 | 2420080062 | Nishanth |
 | 2420090088 | Niranjan Reddy |
 
-Supervisor
+## Supervisor
 Dr. K. Swanthana
