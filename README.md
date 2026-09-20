@@ -56,6 +56,8 @@ intervention recommendations, and what-if analysis.
 
 ## System Workflow
 
+```text
+
 Student Data
       ↓
 Data Preprocessing
@@ -78,6 +80,7 @@ Recommendations
       ↓
 What-If Analysis / Dashboard
 
+```
 ---
 
 ## Dataset
