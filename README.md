@@ -190,3 +190,15 @@ ML-Student-Academic-Performance-Prediction/
 ├── requirements.txt
 ├── Dockerfile
 └── README.md
+```
+
+## Team Members
+| Id | Name |
+|---|---:|
+| 2420030285 | Vignesh Reddy |
+| 2420030404 | Karthik |
+| 2420080062 | Nishanth |
+| 2420090088 | Niranjan Reddy |
+
+Supervisor
+Dr. K. Swanthana
